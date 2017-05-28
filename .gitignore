@@ -1,0 +1,11 @@
+﻿# ignore files
+
+/packages/
+/SearchInDB/SearchInDB/bin/
+/SearchInDB/SearchInDB/obj/
+/SearchInDB/SearchInDB.Android/bin/
+/SearchInDB/SearchInDB.Android/obj/
+/SearchInDB/SearchInDB.iOS/bin/
+/SearchInDB/SearchInDB.iOS/obj/
+/SearchInDB/SearchInDB.UWP/bin/
+/SearchInDB/SearchInDB.UWP/obj/
